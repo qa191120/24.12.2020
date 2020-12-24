@@ -21,6 +21,7 @@ public class Main
         //                        0           1           2
         
         // create an array of integers with numbers: 6, -100, 30, 40, 500
+        // .. what is the cell number of 500 ?
         // create an array of floats with numbers: 0.2, -4.57, 10.11
         // create an array of booleans with : true, true, false, false, true
         // *etgar: create an array of integers with 4 random numbers
