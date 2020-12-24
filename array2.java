@@ -53,7 +53,7 @@ public class Main
 
         // create array of 5 numbers : 60, -10, 30, 45, 12
         // print all of the array elements using for loop (+length)
-        // create array of 5 float : -5.12, 4.8, 12, 4.33, 9.51, -12.7
+        // create array of 6 float : -5.12, 4.8, 12, 4.33, 9.51, -12.7
         // print the first half of the array (using array length!)
         // print the second half of the array (in separate loop)
         // print all the array elements from last to first
