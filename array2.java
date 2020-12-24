@@ -52,12 +52,11 @@ public class Main
         }
 
         // create array of 5 numbers : 60, -10, 30, 45, 12
-        // print all of the array elements
-        // using for loop (like above)
-        // create array of 5 float : -5.12, 4.8, 12, 4.33, 9.51
+        // print all of the array elements using for loop (+length)
+        // create array of 5 float : -5.12, 4.8, 12, 4.33, 9.51, -12.7
         // print the first half of the array
         // print the second half of the array (in separate loop)
-        // print all the array elemnts from last to first
+        // print all the array elements from last to first
         // *etgar: create array of 1,2,3,4,5
         //           print powers 2 of the array.
         //           result: 1,4,9,16,25
